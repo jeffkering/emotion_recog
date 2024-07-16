@@ -1,0 +1,4 @@
+emotion_recog_env/
+__pycache__/
+*.pyc
+.vscode/
