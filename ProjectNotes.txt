@@ -1,0 +1,4 @@
+Project to train computer to recognize emotion from face camera
+step one was to set up Github and project environment
+Step 2: setting up the base model
+step 3: find preprocess data: 244X244 for use with mobilenet, labelled as well links saved in bookmarks??
